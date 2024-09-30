@@ -1,0 +1,1 @@
+Due to the use of configuration coding method, it is only necessary to modify the configuration encodings set s, the rotation sequence set k, and the number of rounds N, and run it. By default, the result and model lp file are generated in the current directory of the program

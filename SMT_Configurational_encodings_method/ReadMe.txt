@@ -1,0 +1,2 @@
+By using the method of configuration encoding, we only need to modify the configuration encodings set s _ pool, the rotation sequence set k _ pool, and the number of rounds rd, and run it. By default, the results and model cvc files are generated in the current directory of the program. 
+The mixed use of MILP and SMT can be achieved by writing scripts manually or as needed.

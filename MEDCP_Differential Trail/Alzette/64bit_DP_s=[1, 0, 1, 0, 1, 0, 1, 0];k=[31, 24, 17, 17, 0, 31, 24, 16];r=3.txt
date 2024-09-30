@@ -1,0 +1,21 @@
+Differential Probability:2^-2
+Differential Characters：
+x_0 = 0x80000100
+x_1 = 0x00000080
+x_2 = 0x80000000
+x_3 = 0x00000000
+x_4 = 0x80000000
+x_5 = 0x00004000
+x_6 = 0x80004000
+y_0 = 0x00000080
+y_1 = 0x80000000
+y_2 = 0x00000000
+y_3 = 0x80000000
+y_4 = 0x00004000
+y_5 = 0x80004000
+y_6 = 0x0000C001
+p_0 = 0xFFFFFDFF
+p_2 = 0xFFFFFFFF
+p_4 = 0xFFFF7FFF
+
+
